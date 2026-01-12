@@ -91,7 +91,7 @@ A：依維修項目提供相應保固。</p>
 </p>
 
 <p>
-🔗 Facebook 粉絲團：<a href="#">點此前往</a>https://www.facebook.com/?locale=zh_TW<br>
+🔗 Facebook 粉絲團：<a href="[#](https://www.facebook.com/?locale=zh_TW)">點此前往</a><br>
 💬 LINE 官方帳號：<br>
 （此處放 LINE QR Code 圖片）
 </p>
