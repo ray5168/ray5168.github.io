@@ -53,7 +53,7 @@
 </section>
 <section id="contact">
   <h2>Contact Us | 聯絡我們</h2>
-  <p>Email: <a href="mailto:contact@dongyang-tech.com">contact@dongyang-tech.com</a></p>
+  <p>Email: <a href="mailto:ray5168@proton.me">contact@dongyang-tech.com</a></p>
   <p>Business Inquiries & Technical Support</p>
 </section>
 
