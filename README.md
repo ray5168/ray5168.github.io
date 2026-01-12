@@ -2,6 +2,106 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
+<title>專業 3C 維修與回收服務</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.8;
+}
+h1, h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+.section { margin-bottom: 40px; }
+</style>
+</head>
+<body>
+
+<h1>專業 3C 維修與二手機回收</h1>
+
+<div class="section">
+<h2>公司簡介</h2>
+<p>
+我們提供專業、透明且快速的 3C 維修與二手機回收服務，
+致力於為顧客提供安心可靠的解決方案。
+</p>
+</div>
+
+<div class="section">
+<h2>服務項目</h2>
+<ul>
+  <li>各廠牌手機維修</li>
+  <li>App 相關服務</li>
+  <li>平板維修</li>
+  <li>筆電維修</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>維修案例</h2>
+<p>實際維修案例展示（可放圖片）：</p>
+<ul>
+  <li>手機螢幕更換</li>
+  <li>主機板維修</li>
+  <li>電池更換</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>二手機買賣 / 回收</h2>
+<ul>
+  <li>二手手機回收</li>
+  <li>平板回收</li>
+  <li>電腦回收</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>常見服務問與答</h2>
+<p><strong>Q：維修需要多久？</strong><br>
+A：視故障狀況而定，通常 1–3 個工作天。</p>
+
+<p><strong>Q：是否提供保固？</strong><br>
+A：依維修項目提供相應保固。</p>
+</div>
+
+<div class="section">
+<h2>顧客評論</h2>
+<p>「服務快速，說明清楚，很放心！」</p>
+<p>「價格合理，值得推薦。」</p>
+</div>
+
+<div class="section">
+<h2>營業時間</h2>
+<p>週一至週六 10:00 – 20:00</p>
+</div>
+
+<div class="section">
+<h2>服務據點與聯絡方式</h2>
+<p>
+📍 地址：請填寫實際地址<br>
+📞 電話：09xx-xxx-xxx<br>
+📧 信箱：service@example.com
+</p>
+
+<p>
+🔗 Facebook 粉絲團：<a href="#">點此前往</a><br>
+💬 LINE 官方帳號：<br>
+（此處放 LINE QR Code 圖片）
+</p>
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
 <title>個人安全研究者</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
