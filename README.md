@@ -51,16 +51,12 @@
     東洋通訊是一家專注於軟體服務與應用維護的公司，致力於提供穩定、合規的 App 技術解決方案。
   </p>
 </section>
+
 <section id="contact">
   <h2>Contact Us | 聯絡我們</h2>
-  <p>Email: <a href="mailto:ray5168@proton.me">ray5168@proton.me</a></p>
-  <p>地址: <a href="mailto:ray5168@proton.me">高雄市三民區金鼎路285號</a></p>
+  <p>Email: <a href="mailto:contact@dongyang-tech.com">ray5168@proton.me</a></p>
+  <p>電話: <a href="mailto:contact@dongyang-tech.com">(07)310-5701</a></p>
+  <p>手機: <a href="mailto:contact@dongyang-tech.com">0913669673</a></p>
+  <p>地址: <a href="mailto:contact@dongyang-tech.com">高雄市三民區金鼎路285號</a></p>
   <p>Business Inquiries & Technical Support</p>
 </section>
-
-<footer>
-  <p>© 2026 Dongyang Communications. All rights reserved.</p>
-</footer>
-
-</body>
-</html>
