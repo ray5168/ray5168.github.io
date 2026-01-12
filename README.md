@@ -51,3 +51,15 @@
     東洋通訊是一家專注於軟體服務與應用維護的公司，致力於提供穩定、合規的 App 技術解決方案。
   </p>
 </section>
+<section id="contact">
+  <h2>Contact Us | 聯絡我們</h2>
+  <p>Email: <a href="mailto:contact@dongyang-tech.com">contact@dongyang-tech.com</a></p>
+  <p>Business Inquiries & Technical Support</p>
+</section>
+
+<footer>
+  <p>© 2026 Dongyang Communications. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
