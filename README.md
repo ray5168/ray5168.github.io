@@ -54,6 +54,7 @@
 <section id="contact">
   <h2>Contact Us | 聯絡我們</h2>
   <p>Email: <a href="mailto:ray5168@proton.me">ray5168@proton.me</a></p>
+  <p>地址: <a href="mailto:ray5168@proton.me">高雄市三民區金鼎路285號</a></p>
   <p>Business Inquiries & Technical Support</p>
 </section>
 
