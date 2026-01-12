@@ -2,24 +2,55 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
-<title>專業3C維修服務</title>
+<title>個人安全研究者</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: Arial, sans-serif;
-  max-width: 1000px;
+  max-width: 800px;
   margin: auto;
-  padding: 20px;
+  padding: 40px;
   line-height: 1.8;
+  color: #222;
 }
 h1, h2 {
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 5px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 6px;
 }
-ul { padding-left: 20px; }
-.section { margin-bottom: 40px; }
 </style>
 </head>
+<body>
+
+<h1>個人安全研究網站</h1>
+
+<h2>關於我</h2>
+<p>
+我是一名對作業系統與平台安全有興趣的個人安全研究者，
+目前專注於行動裝置與應用程式安全相關的學習與研究。
+</p>
+<p>
+本網站用於展示我的研究方向以及負責任漏洞揭露立場。
+</p>
+
+<h2>研究方向</h2>
+<ul>
+  <li>iOS / macOS 平台安全機制</li>
+  <li>應用程式安全與系統行為分析</li>
+  <li>邏輯缺陷與安全設計研究</li>
+</ul>
+<p>
+目前仍處於持續學習階段，透過文件閱讀與實驗進行研究。
+</p>
+
+<h2>負責任漏洞揭露聲明</h2>
+<p>
+我遵守負責任漏洞揭露（Responsible Disclosure）原則，
+僅在合法授權與合規範圍內進行安全研究活動。
+</p>
+<p>
+若在研究過程中發現安全問題，將僅透過官方管道向相關廠商回報，
+不進行任何未經授權的測試、利用或公開。
+
 <body>
 
 <h1>專業 3C 維修與回收服務</h1>
