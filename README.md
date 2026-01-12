@@ -79,7 +79,7 @@ A：依維修項目提供相應保固。</p>
 
 <div class="section">
 <h2>營業時間</h2>
-<p>週一至週六 13:00 – 22:00</p>
+<p>週一至週六 10:00 – 20:00</p>
 </div>
 
 <div class="section">
@@ -91,7 +91,7 @@ A：依維修項目提供相應保固。</p>
 </p>
 
 <p>
-🔗 Facebook 粉絲團：<a href="[#](https://www.facebook.com/?locale=zh_TW)">點此前往</a><br>
+🔗 Facebook 粉絲團：<a href=https://www.facebook.com/?locale=zh_TW>點此前往</a><br>
 💬 LINE 官方帳號：<br>
 （此處放 LINE QR Code 圖片）
 </p>
